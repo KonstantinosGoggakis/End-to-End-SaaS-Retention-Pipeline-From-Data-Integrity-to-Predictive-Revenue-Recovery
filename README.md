@@ -1,4 +1,4 @@
-SaaS Churn Analysis & Prediction
+SaaS Churn Analysis & Prediction | Stop the Leaking Bucket - Churn Prediction
 Project Overview
 
 This project analyzes customer churn behavior in a SaaS environment and builds a predictive model to identify customers at risk of leaving. The goal is to transform raw behavioral, billing, and satisfaction data into actionable business insights that help reduce churn and protect revenue.
